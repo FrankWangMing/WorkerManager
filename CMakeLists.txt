@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.25)
+project(worker)
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_BUILD_TYPE Debug)
+set(CMAKE_OSX_ARCHITECTURES x86_64)
+add_executable(main.cpp Test.cpp employee/Boss.cpp#[[]] employee/employee.cpp employee/Manager.cpp WorkerManger/WorkerManger.cpp main.cpp)

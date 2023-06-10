@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -S /Users/wangming/CLionProjects/Learn/course/demo/职工管理系统 -B /Users/wangming/CLionProjects/Learn/course/demo/职工管理系统/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/wangming/CLionProjects/Learn/course/demo/职工管理系统/cmake-build-debug

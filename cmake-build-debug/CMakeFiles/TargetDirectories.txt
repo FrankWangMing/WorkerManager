@@ -1,0 +1,3 @@
+/Users/wangming/CLionProjects/Learn/course/demo/职工管理系统/cmake-build-debug/CMakeFiles/main.cpp.dir
+/Users/wangming/CLionProjects/Learn/course/demo/职工管理系统/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wangming/CLionProjects/Learn/course/demo/职工管理系统/cmake-build-debug/CMakeFiles/rebuild_cache.dir
